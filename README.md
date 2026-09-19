@@ -4,7 +4,7 @@ A structured collection of **bug bounty tools, commands, reconnaissance techniqu
 
 > ⚠️ **Disclaimer:** Only use these tools against systems you own or are explicitly authorized to test. Always follow the target's bug bounty scope, rules, and rate limits.
 > Red Team > ready > lest GO
-> >>>>>> Basir0x <<<<<<<
+
 
 ---
 
